@@ -1,0 +1,4 @@
+Customer ID,username,password,Age,Gender,Purchase Amount,Subscription Status,Previous Purchases,Preferred Payment Method,Frequency of Purchases,customer_discount
+1,username1,password1,55,Male,5300,Yes,14,Venmo,Fortnightly,20
+2,username2,password2,19,Male,6400,No,2,Cash,Fortnightly,20
+3,username3,password3,50,Male,17300,Yes,23,Credit Card,Weekly,25
